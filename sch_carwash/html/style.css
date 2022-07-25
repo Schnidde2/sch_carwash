@@ -1,0 +1,241 @@
+#UI {
+    opacity: 100%;
+    top: 60%;
+    left: 40%;
+}
+
+#DarkBackground {
+    position: fixed;
+    background-color: black;
+    height: 1080px;
+    width: 1920px;
+    top: 0px;
+    left: 0px;
+    opacity: 90%;
+}
+
+#Background {
+    position: absolute;
+    top: 35%;
+    left: 3%;
+    height: 450px;
+    width: 700px;
+    background-color: rgb(26, 26, 26);
+    border-radius: 50px;
+    border-color: rgb(0, 0, 255);;
+    border-style: solid;
+    border-width: 3px;
+    box-shadow: 0px 0px 30px 0px rgb(0, 0, 0);
+}
+
+#Ueberschrift1 {
+    position: absolute;
+    font-family: 'Oswald', sans-serif;
+    font-size: 27px;
+    color: rgb(255, 255, 255);
+    top: 59%;
+    left: 44.8%;
+    text-align: center;
+}
+
+#Aufzaehlungen1 {
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    font-size: 21px;
+    color: rgb(255, 255, 255);
+    top: 64%;
+    left: 44.8%;
+    text-align: left;
+    line-height: 7px;
+}
+
+#Kasten1 {
+    position: absolute;
+    top: 35%;
+    left: 42%;
+    height: 200px;
+    width: 300px;
+    background-color: rgb(26, 26, 26);
+    border-radius: 50px;
+    border-color: rgb(0, 0, 255);
+    border-style: solid;
+    border-width: 3px;
+    box-shadow: 0px 0px 30px 0px rgb(0, 0, 0);
+}
+
+#Kasten2 {
+    position: absolute;
+    top: 58%;
+    left: 42%;
+    height: 200px;
+    width: 300px;
+    background-color: rgb(26, 26, 26);
+    border-radius: 50px;
+    border-color: rgb(0, 0, 255);
+    border-style: solid;
+    border-width: 3px;
+    box-shadow: 0px 0px 30px 0px rgb(0, 0, 0);
+}
+
+#Ueberschrift {
+    position: absolute;
+    font-family: 'Oswald', sans-serif;
+    font-size: 35px;
+    color: rgb(255, 255, 255);
+    top: 36%;
+    left: 17%;
+    text-align: center;
+}
+
+#Ueberschrift2 {
+    position: absolute;
+    font-family: 'Oswald', sans-serif;
+    font-size: 27px;
+    color: rgb(255, 255, 255);
+    top: 36%;
+    left: 44.8%;
+    text-align: center;
+}
+
+#Aufzaehlungen2 {
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    top: 40.5%;
+    left: 44.8%;
+    text-align: left;
+    line-height: 7px;
+}
+
+#Aufzaehlungen3 {
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    color: rgb(255, 255, 255);
+    top: 40.5%;
+    left: 44.8%;
+    text-align: left;
+    line-height: 7px;
+}
+
+#logo {
+    position: absolute;
+    height: auto;
+    width: 100px;
+    top: 37.5%;
+    left: 4.5%;
+}
+
+#button1 {
+    position: absolute;
+    top: 63%;
+    left: 5%;
+    height: 50px;
+    width: 300px;
+    color: white;
+    font-size: 24px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    background-color: rgb(26, 26, 26);
+    border-radius: 75px;
+    border-color: rgb(0, 0, 255);
+    border-style: solid;
+    box-shadow: 0px 0px 15px 0px rgb(0, 0, 0);
+    cursor: pointer;
+}
+
+#button2 {
+    position: absolute;
+    top: 63%;
+    left: 22.5%;
+    height: 50px;
+    width: 300px;
+    color: white;
+    font-size: 24px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    background-color: rgb(26, 26, 26);
+    border-radius: 75px;
+    border-color: rgb(0, 0, 255);;
+    border-style: solid;
+    box-shadow: 0px 0px 15px 0px rgb(0, 0, 0);
+    cursor: pointer;
+}
+
+#button3 {
+    position: absolute;
+    top: 70%;
+    left: 13.5%;
+    height: 50px;
+    width: 300px;
+    color: white;
+    font-size: 24px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    background-color: rgb(26, 26, 26);
+    border-radius: 75px;
+    border-color: rgb(0, 0, 255);;
+    border-style: solid;
+    box-shadow: 0px 0px 15px 0px rgb(0, 0, 0);
+    cursor: pointer;
+}
+
+#WaschenText {
+    position: absolute;
+    top: 56%;
+    left: 13.7%;
+    color: white;
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+    line-height: 5px;
+    text-align: center;
+}
+
+#preistext {
+    position: absolute;
+    top: 42%;
+    left: 13%;
+    color: white;
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+#preis {
+    position: absolute;
+    top: 42.1%;
+    left: 25%;
+    color: rgb(0, 0, 255);;
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+}
+
+#preistext2 {
+    position: absolute;
+    top: 45%;
+    left: 13%;
+    color: white;
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+#preis2 {
+    position: absolute;
+    top: 45.1%;
+    left: 25%;
+    color: rgb(0, 0, 255);;
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+}
+
+#Autowaschlogo {
+    position: absolute;
+    height: 8.3%;
+    width: 6%;
+    top: 37%;
+    left: 33%;
+}
