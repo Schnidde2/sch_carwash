@@ -2,6 +2,7 @@
     opacity: 100%;
     top: 60%;
     left: 40%;
+    display: none;
 }
 
 #DarkBackground {
@@ -125,6 +126,7 @@
     width: 100px;
     top: 37.5%;
     left: 4.5%;
+    display: none;
 }
 
 #button1 {
